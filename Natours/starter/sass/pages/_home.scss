@@ -1,0 +1,13 @@
+.section-about {
+    background-color: #f7f7f7;
+    padding: 30rem 0;
+    margin-top: -25vh;
+}
+
+.features-section {
+    height: 101vh;
+    background: linear-gradient(to right, rgba($primary-color-light, 0.8), rgba($primary-color-dark, 0.8)), url('../../img/nat-4.jpg');
+
+    clip-path: polygon(0 25vh, 100% 0, 100% 75vh, 0 100% );
+    position: relative;
+}
